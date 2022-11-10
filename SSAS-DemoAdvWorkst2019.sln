@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS-DemoAdvWorkst2019", "SSAS-DemoAdvWorkst2019\SSAS-DemoAdvWorkst2019.dwproj", "{C996785A-153A-4494-9A23-5329D8FC57B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C996785A-153A-4494-9A23-5329D8FC57B2}.Development|Default.ActiveCfg = Development
+		{C996785A-153A-4494-9A23-5329D8FC57B2}.Development|Default.Build.0 = Development
+		{C996785A-153A-4494-9A23-5329D8FC57B2}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D884D9CC-FDAA-409F-92CD-0AF986FBAC9C}
+	EndGlobalSection
+EndGlobal
